@@ -84,7 +84,6 @@ public class RepoListAdapter extends BaseAdapter {
             nameTextview.setText(repository.getName());
             descriptionTextview.setText(repository.getDescription());
             Picasso.with(context).load(repository.getOwner().getAvatar_url()).fit().centerCrop()
-                    .placeholder(R.drawable.ic_avatar_default)
                     .error(R.drawable.ic_error_loading)
                     .into(iconImageView);
         }

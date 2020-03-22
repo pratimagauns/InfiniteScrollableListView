@@ -22,7 +22,7 @@
         android:id="@+id/repo_list_scroll_top"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_margin="16dp"
+        android:layout_margin="@dimen/margin_medium"
         android:src="@drawable/ic_scroll_top"
         app:backgroundTint="@color/colorPrimary"
         app:layout_constraintBottom_toBottomOf="parent"

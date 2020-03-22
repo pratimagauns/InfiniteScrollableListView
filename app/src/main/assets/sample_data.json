@@ -2,7 +2,7 @@
   {
     "id": 274562,
     "node_id": "MDEwOlJlcG9zaXRvcnkyNzQ1NjI=",
-    "name": "yajl-objc",
+    "name": "Yajl-objc",
     "full_name": "square/yajl-objc",
     "private": false,
     "owner": {
@@ -13,7 +13,7 @@
   {
     "id": 298912,
     "node_id": "MDEwOlJlcG9zaXRvcnkyOTg5MTI=",
-    "name": "simplerrd",
+    "name": "Simplerrd",
     "full_name": "square/simplerrd",
     "private": false,
     "owner": {
@@ -25,7 +25,7 @@
   {
     "id": 314576,
     "node_id": "MDEwOlJlcG9zaXRvcnkzMTQ1NzY=",
-    "name": "gh-unit",
+    "name": "Gh-unit",
     "full_name": "square/gh-unit",
     "private": false,
     "owner": {
@@ -37,7 +37,7 @@
   {
     "id": 355835,
     "node_id": "MDEwOlJlcG9zaXRvcnkzNTU4MzU=",
-    "name": "plastic",
+    "name": "Plastic",
     "full_name": "square/plastic",
     "private": false,
     "owner": {
@@ -52,7 +52,7 @@
   {
     "id": 474273,
     "node_id": "MDEwOlJlcG9zaXRvcnk0NzQyNzM=",
-    "name": "ftpfxp",
+    "name": "Ftpfxp",
     "full_name": "square/ftpfxp",
     "private": false,
     "owner": {
@@ -64,14 +64,14 @@
   {
     "id": 699741,
     "node_id": "MDEwOlJlcG9zaXRvcnk2OTk3NDE=",
-    "name": "fundraiser",
+    "name": "Fundraiser",
     "full_name": "square/fundraiser",
     "private": false,
     "owner": {
       "login": "square",
       "id": 82592,
       "node_id": "MDEyOk9yZ2FuaXphdGlvbjgyNTky",
-      "avatar_url": "https://avatars0.githubusercontent.com/u/82592?v=4"
+      "avatar_url": "https://avatars3.githubusercontent.com/u/6811672?v=4"
     },
     "html_url": "https://github.com/square/fundraiser",
     "description": null

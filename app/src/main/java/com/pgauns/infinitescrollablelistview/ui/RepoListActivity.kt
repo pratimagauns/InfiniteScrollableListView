@@ -18,7 +18,6 @@ class RepoListActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
-        (application as RLVApplication).getAppComponent().inject(this)
 
         viewModel = ViewModelProviders.of(this).get(RepoListViewModel::class.java)
 

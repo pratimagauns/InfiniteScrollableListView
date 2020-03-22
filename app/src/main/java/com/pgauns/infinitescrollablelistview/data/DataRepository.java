@@ -11,11 +11,13 @@ import java.lang.reflect.Type;
 import java.util.ArrayList;
 import java.util.List;
 
+import javax.inject.Inject;
+
 public class DataRepository {
 
     private static DataRepository dataRepository;
-//    @Inject
-//    Context context;
+    @Inject
+    Context context;
 
     public static DataRepository getInstance(){
         if (dataRepository == null){
@@ -23,10 +25,6 @@ public class DataRepository {
         }
         return dataRepository;
     }
-//
-//    @Inject
-//    private DataRepository(@Named("ApplicationContext") Context context){
-//    }
 
     public List<Repository> getRepositories(Context context){
         return readJSONFromAsset("sample_data.json", context);
