@@ -21,7 +21,7 @@ Created a custom scroll listener [InfiniteScrollListener](./src/main/java/com/pg
 #### Tried, no success 😞:
 RecyclerView prepares view just ahead and behind the visible entries, which is great if you are fetching bitmaps in background.
 
-![Cat](https://github.com/pratimagauns/InfiniteScrollableListView/blob/develop/sccroll_behaviour.png)
+<img src="https://github.com/pratimagauns/InfiniteScrollableListView/blob/master/scroll_behaviour.png" alt="" width="500" height="400" />
 
 [ListView](https://developer.android.com/reference/android/widget/ListView) is based on the premise that there’s no way to precalculate or cache the size of entries in the list. While a RecyclerView prepares view just ahead and behind the visible entries.
 
